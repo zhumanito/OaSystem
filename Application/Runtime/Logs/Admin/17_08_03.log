@@ -1,0 +1,17 @@
+[ 2017-08-03T17:38:25+08:00 ] 127.0.0.1 /index.php/Admin/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-08-03T17:39:52+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:index
+
+[ 2017-08-03T18:27:13+08:00 ] 127.0.0.1 /index.php/Admin/Public/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 非法操作:index
+

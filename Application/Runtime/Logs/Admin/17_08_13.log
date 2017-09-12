@@ -1,0 +1,293 @@
+[ 2017-08-13T00:03:59+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-08-13T00:04:38+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-13T00:04:57+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-13T00:08:22+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-08-13T00:10:08+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-08-13T00:10:12+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-13T00:11:52+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-08-13T00:12:00+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-13T00:12:05+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-13T00:13:07+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-13T00:13:33+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-08-13T00:14:03+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-13T00:14:06+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-13T00:14:09+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-13T00:14:14+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-13T00:14:17+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-08-13T00:14:23+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-13T00:14:27+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-13T00:16:21+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-13T00:16:25+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0340s ]
+NOTIC: [8] Undefined index: validate C:\myweb\tp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-08-13T00:16:46+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0240s ]
+NOTIC: [8] Undefined index: validate C:\myweb\tp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-08-13T00:16:49+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0220s ]
+NOTIC: [8] Undefined index: validate C:\myweb\tp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-08-13T00:16:57+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0380s ]
+NOTIC: [8] Undefined index: validate C:\myweb\tp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-08-13T00:17:03+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0360s ]
+NOTIC: [8] Undefined index: validate C:\myweb\tp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-08-13T00:17:39+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0330s ]
+NOTIC: [8] Undefined index: validate C:\myweb\tp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\myweb\tp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `sp_user` (`username`,`password`,`truename`,`nickname`,`dept_id`,`sex`,`birthday`,`tel`,`email`,`remark`,`addtime`) VALUES ('zss','adasda','asdasda','asdasda','2','男','2017-08-13','12345678908','9292@126.com','dfdfdsfs','1502554659') [ RunTime:0.0160s ]
+
+[ 2017-08-13T00:24:57+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-08-13T00:25:01+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-13T00:25:02+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-13T00:25:02+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-08-13T00:25:09+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-08-13T00:25:39+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0320s ]
+NOTIC: [8] Undefined index: validate C:\myweb\tp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\myweb\tp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `sp_user` (`username`,`password`,`truename`,`nickname`,`dept_id`,`sex`,`birthday`,`tel`,`email`,`remark`,`addtime`) VALUES ('zss','adasda','asdasda','asdasda','2','男','2017-08-13','12345678908','9292@126.com','dfdfdsfs','1502555139') [ RunTime:0.0010s ]
+
+[ 2017-08-13T00:26:07+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-13T00:26:18+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-13T00:26:26+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-13T00:26:38+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0390s ]
+NOTIC: [8] Undefined index: validate C:\myweb\tp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\myweb\tp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `sp_user` (`username`,`password`,`truename`,`nickname`,`dept_id`,`sex`,`birthday`,`tel`,`email`,`remark`,`addtime`) VALUES ('zss','adasda','asdasda','asdasda','2','男','2017-08-13','12345678908','9292@126.com','dfdfdsfs','1502555198') [ RunTime:0.0020s ]
+
+[ 2017-08-13T00:26:42+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-13T00:28:09+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-13T00:28:13+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `sp_user` [ RunTime:0.0230s ]
+NOTIC: [8] Undefined index: validate C:\myweb\tp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\myweb\tp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `sp_user` (`username`,`password`,`truename`,`nickname`,`dept_id`,`sex`,`birthday`,`tel`,`email`,`remark`,`addtime`) VALUES ('zss','adasda','asdasda','asdasda','2','男','2017-08-13','12345678908','9292@126.com','dfdfdsfs','1502555293') [ RunTime:0.0010s ]
+
+[ 2017-08-13T00:28:17+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-13T00:36:04+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-13T00:36:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-13T00:36:15+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-13T00:36:26+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-13T00:36:49+08:00 ] 127.0.0.1 /index.php/Admin/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-13T00:36:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
